@@ -4,9 +4,6 @@
 ## Purpose
 This application is a re-implementation of our group project (originally in Python) into **R/Shiny**. It visualizes the impact of various demographic and behavioral factors on academic performance.
 
-## Deployed App
-**URL:** <add your Posit Connect Cloud URL here>
-
 ## Instructions
 1. **Install Dependencies (first time):**
    `install.packages(c("shiny", "bslib", "ggplot2", "dplyr", "arrow"))`
